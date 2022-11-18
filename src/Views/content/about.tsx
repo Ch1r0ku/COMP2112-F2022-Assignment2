@@ -1,13 +1,14 @@
+// about.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// About page content
 import React, { useEffect } from 'react';
-//Assets
-
 
 function About()
 {
     useEffect(() =>{
         document.title = "About";
     },[]);
-    
+
     return(
         <div className="container">
         <h1>About Me</h1>

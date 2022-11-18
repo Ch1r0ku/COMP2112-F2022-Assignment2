@@ -1,3 +1,6 @@
+// projects.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// Projects page content
 import React, { useEffect } from 'react';
 
 function Projects()

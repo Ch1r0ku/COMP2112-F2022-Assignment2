@@ -1,3 +1,6 @@
+// header.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// Header component
 import React from 'react';
 import {NavLink} from 'react-router-dom';
 

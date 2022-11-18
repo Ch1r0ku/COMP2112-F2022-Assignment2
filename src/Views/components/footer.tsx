@@ -1,3 +1,6 @@
+// footer.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// Footer component
 import React from 'react';
 
 function Footer()

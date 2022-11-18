@@ -1,3 +1,6 @@
+// App.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// Main tsx file
 import React from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 

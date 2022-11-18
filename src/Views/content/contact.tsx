@@ -1,3 +1,6 @@
+// contact.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// Contact page content
 import React, { ChangeEvent, useEffect, useState } from 'react';
 
 function Contact()

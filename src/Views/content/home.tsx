@@ -1,3 +1,6 @@
+// Home.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// Home page content
 import React, {useEffect} from 'react';
 import {Link} from 'react-router-dom';
 

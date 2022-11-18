@@ -1,3 +1,6 @@
+// contact.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
+// contact page with a form
 import React, { useEffect } from 'react';
 
 function Home()

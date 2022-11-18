@@ -1,3 +1,5 @@
+// index.tsx
+// Roman Lysenko - Assignment2 Mini Portfolio in React
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
