@@ -13,9 +13,12 @@ import Services from './Views/content/services';
 import Contact from './Views/content/contact';
 
 //Styles and fonts\
-import 'bootstrap/dist/css/bootstrap.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import './App.css';
+
+// JavaScript Libraries
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 function App() {
   return (

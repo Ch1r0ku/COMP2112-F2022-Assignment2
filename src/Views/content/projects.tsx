@@ -1,7 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 function Projects()
 {
+    useEffect(() =>{
+        document.title = "Projects";
+    },[]);
+    
     return(
         <div className="container-fluid">
         <h1>My Projects</h1>

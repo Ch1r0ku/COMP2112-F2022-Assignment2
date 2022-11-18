@@ -1,7 +1,11 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 function Home()
 {
+    useEffect(() =>{
+        document.title = "Services";
+    },[]);
+    
     return(
         <div className="container">
         <h1>My Services</h1>

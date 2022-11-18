@@ -1,9 +1,13 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 //Assets
 
 
 function About()
 {
+    useEffect(() =>{
+        document.title = "About";
+    },[]);
+    
     return(
         <div className="container">
         <h1>About Me</h1>
