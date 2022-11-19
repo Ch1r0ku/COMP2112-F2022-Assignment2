@@ -2,6 +2,7 @@
 // Roman Lysenko - Assignment2 Mini Portfolio in React
 // About page content
 import React, { useEffect } from 'react';
+import Author from '../../Assets/AuthorPhoto.jpeg';
 
 function About()
 {
@@ -17,7 +18,7 @@ function About()
         <section className="container">
             <div className="row">
                 <div className="col-lg-6">
-                    <img className="custom__image float-end" src="" alt="a photo of the author"/>
+                    <img className="custom__image float-end" src={Author} alt="a photo of the author"/>
                 </div>
                 <div className="col-lg-6 about-page">
                     <h4>Hello,<br></br><br></br> my name is Roman Lysenko, I am an international student from Ukraine, currently learning User Interface Design in the IMDW program from Georgian College.<br></br>
